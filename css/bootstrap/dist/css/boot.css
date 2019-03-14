@@ -1,0 +1,5 @@
+#sec1{position: relative;
+    background-image: url("../img/bridge.jpg");
+min-height: 100vh;
+background-size: cover;
+background-position: center;}
